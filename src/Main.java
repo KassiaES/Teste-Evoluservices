@@ -5,8 +5,9 @@ public class Main {
 
         System.out.println("\n \u001B[35m Hello Evoluservices! My name is Kassia \u001B[0m \n");
 
-
-
+            System.out.println("▒█▀▀▀ ▒█░░▒█ ░█▀▀█ ▒█░░░ ▒█░▒█ ▒█▀▀█░ ▒█▀▀▀ ░█▀▀█  ▒█░░▒█ ▒█░░░ ░█▀▀█ ▒█▀▀▀");
+            System.out.println("░█▀▀░ ░▒█▒█▒ ▒█  █ ▒█░░░ ▒█  █ ▒█▄▄▄▒ ░█▀▀░ ▒█▄▄█  ░▒█▒█▒ ▒█░░░ ▒█░░░ ░█▀▀░");
+            System.out.println("▒█▄▄▄ ░░▀▄▀░ ▒█▄▄█ ▒█▄▄█ ▒█▄▄█ ▒█▄▄█▒ ▒█▄▄▄ ▒█░▀▄  ░░▀▄▀░ ▒█░░░ ▒█▄▄█ ▒█▄▄▄ \n");
 
         // exercício 1
         TicoTeco.ticoTeco();
