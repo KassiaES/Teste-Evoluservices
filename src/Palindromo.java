@@ -11,11 +11,11 @@
 
 public class Palindromo {
 
-    public static boolean isPalindrome(String word) {
+    public static boolean isPalindrome(String s) {
 
         boolean response = false;
 
-        char[] charArray = word.toCharArray();
+        char[] charArray = s.toCharArray();
         int count = charArray.length-1;
 
         for (int i = 0; i < charArray.length; i++) {
